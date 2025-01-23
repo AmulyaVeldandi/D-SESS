@@ -15,7 +15,6 @@ The study introduces the **Drug Side Effect Severity Scale (D-SESS)**, a novel q
 5. [Results](#results)
 6. [Setup](#setup)
 7. [Authors and Acknowledgment](#authors-and-acknowledgment)
-8. [License](#license)
 
 ---
 
