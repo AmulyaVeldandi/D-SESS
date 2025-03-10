@@ -1,6 +1,6 @@
 # Quantitative Analysis of Side Effect Severity using the D-SESS Scale
 
-This repository contains the code, data, and documentation for the research study titled **"Quantitative Analysis of Side Effect Severity using the D-SESS Scale: An Observational Study with Analytical Techniques"**, authored by Vijay Kumar Gaddam, Amulya Veldandi, Akhila Siri Godana, Surya Rao Sripathi, and Timothy Gudisa. LINK: https://dl.acm.org/doi/10.1145/3704239.3704248 
+This repository contains the code, data, and documentation for the research study titled **"Quantitative Analysis of Side Effect Severity using the D-SESS Scale: An Observational Study with Analytical Techniques"**, authored by Vijay Kumar Gaddam, Amulya Veldandi, Akhila Siri Godana, Surya Rao Sripathi, and Timothy Gudisa.
 
 The study introduces the **Drug Side Effect Severity Scale (D-SESS)**, a novel quantitative metric designed to assess and categorize the severity of drug side effects using natural language processing (NLP) and machine learning techniques.
 
